@@ -1,4 +1,4 @@
-﻿#                  MultiMedicalHealthCareSystem
+﻿#                  Multi Medical Health Care System
 # Overview
 The Multiple Disease Prediction System is a Streamlit-based application designed to predict the likelihood of three common diseases: Diabetes, Heart Disease, and Kidney Disease. Using trained machine learning models, the system provides predictions based on user input and helps in early disease diagnosis.
 MultiMedicalHealthCareSystem - Project Documentation
